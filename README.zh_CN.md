@@ -32,7 +32,7 @@
 ## 自建同款
 - star 本仓库(非必须,哈哈哈哈, 但是谢谢star)
 - clone 仓库, 修改 wrangler.toml 中的 KV id 和 D1 的 database id 为你自己的
-- 迁移数据库, 运行 pnpm wrangler d1 migrations apply smail --remote
+- 迁移数据库, 运行 pnpm wrangler d1 migrations apply amail --remote
 - 部署worker, 运行 pnpm run deploy
 - 新增环境变量, 进入 worker 设置->变量和机密: 设置 COOKIE_SECRET: 用于加密 cookie 的密钥, DOMAIN: 你的域名
 - 进入域名管理->电子邮件->路由规则->Catch-all 地址. 这里选择发送到 worker, 然后选择创建的worker

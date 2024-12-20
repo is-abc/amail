@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="418" viewBox="0 0 800 418" fill="none">
+  <rect width="800" height="418" fill="#F0F4F8"/>
+  <text x="50" y="150" font-family="Microsoft YaHei, Arial, sans-serif" font-size="48" font-weight="bold" fill="#1A365D">
+    AMail
+  </text>
+  <text x="50" y="220" font-family="Microsoft YaHei, Arial, sans-serif" font-size="32" fill="#2D3748">
+    临时邮箱服务
+  </text>
+  <text x="50" y="270" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#4A5568">
+    免费、开源、简单
+  </text>
+  <circle cx="600" cy="209" r="100" fill="#4299E1" opacity="0.2"/>
+  <path d="M600 159L645 209L600 259L555 209L600 159Z" fill="#3182CE"/>
+  <path d="M600 180L620 209L600 238L580 209L600 180Z" fill="white"/>
+</svg>

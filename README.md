@@ -32,7 +32,7 @@
 ## Self-built
 - star this repository (not necessary, lmao, but thank you for the star)
 - clone the repository, modify the KV id and D1 database id in wrangler.toml to your own
-- Migrate the database, run pnpm wrangler d1 migrations apply smail --remote
+- Migrate the database, run pnpm wrangler d1 migrations apply amail --remote
 - Deploy the worker, run pnpm run deploy
 - Add environment variables, enter worker settings->variables and secrets: set COOKIE_SECRET: key for encrypting cookies, DOMAIN: your domain name
 - Enter domain management->email->routing rules->Catch-all address. Here choose to send to the worker, and then select the created worker
