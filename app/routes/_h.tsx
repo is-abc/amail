@@ -50,7 +50,7 @@ export default function HomeLayout() {
 					</Link>
 					<div className="flex-1" />
 					<Link
-						to="https://github.com/akazwz/smail"
+						to="https://github.com/is-abc/amail"
 						target="_blank"
 						className={cn(
 							buttonVariants({
