@@ -10,3 +10,4 @@ node_modules
 .wrangler
 drizzle.config.ts
 
+package-lock.json

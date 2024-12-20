@@ -1,5 +1,5 @@
 {
-	"title": "smail",
+	"title": "amail",
 	"description": "免费开源的临时邮箱服务",
 	"button": "获取邮箱",
 	"card_description": "这是你的临时邮箱, 邮件列表每10秒钟刷新",
@@ -21,7 +21,7 @@
 		},
 		{
 			"title": "自部署",
-			"description": "您可以自己部署一个 smail 服务，只需要几分钟。"
+			"description": "您可以自己部署一个 amail 服务，只需要几分钟。"
 		}
 	],
 	"auth": {

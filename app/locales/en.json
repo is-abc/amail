@@ -1,5 +1,5 @@
 {
-	"title": "smail",
+	"title": "amail",
 	"description": "A free and open-source temporary email service",
 	"button": "Get Email",
 	"card_description": "This is your temporary email, the email list refreshes every 10 seconds",
@@ -21,7 +21,7 @@
 		},
 		{
 			"title": "Self-hosted",
-			"description": "You can deploy a smail service by yourself, just a few minutes."
+			"description": "You can deploy a amail service by yourself, just a few minutes."
 		}
 	],
 	"auth": {
